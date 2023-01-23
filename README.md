@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Projeto desenvolvido durante o evento NLW Setup da trilha ignite, promovido pela Rocketseat.
+  Projeto de app tracker de hábitos, desenvolvido durante o evento NLW Setup (trilha Ignite), promovido pela Rocketseat.
 </p>
 <br>
 
@@ -22,7 +22,7 @@
    ![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
    
-  - Dayjs, Axios, Radix UI, React Query
+  - Dayjs, Axios, Radix UI, React Query.
   
 <p>Back-end:</p>
 
@@ -31,7 +31,7 @@
    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white/>)
    ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
   
-  - Dayjs, Axios
+  - Dayjs, Axios.
   
    
 
@@ -42,7 +42,7 @@
   ![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-- React Navigation, React Reanimated
+- React Navigation, React Reanimated.
 
    
 <br>
@@ -50,9 +50,9 @@
   📱 Projeto
 </h2>
 <p>
-  O Projeto consiste em uma aplicação para controle de hábitos diários, onde o usuário pode adicionar novos hábitos para completar com o passar do tempo.
+  Uma aplicação para cadastro e controle de hábitos diários, versionada em Web e Mobile.
 
-Aplicação completa com back-end, front-end e mobile.
+  Aplicação completa com back-end, front-end e mobile.
 
 </p>
 
