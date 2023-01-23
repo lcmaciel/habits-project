@@ -64,8 +64,8 @@
 
 ```bash
 # Clone e acesse a pasta
-$ git clone https://github.com/LuanContreiras/nlw-setup-ignite 
-$ cd nlw-setup-ignite
+$ git clone https://github.com/lcmaciel/habits-project
+$ cd habits-project
 
 
 # Back-end - Instalando as dependências
